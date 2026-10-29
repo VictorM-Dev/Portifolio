@@ -67,7 +67,7 @@ const Experiences = () => {
             </div>
           </div>
           <p className="text-right border-b border-over-secondary py-2">
-            5 de Fevereiro - 5 de Agosto
+            Fev 2026 - 5 Ago 2026
           </p>
           <p className={clsx("text-justify")}>
             Meu estágio foi uma oportunidade de aproximar o conhecimento técnico

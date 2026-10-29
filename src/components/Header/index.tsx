@@ -38,7 +38,7 @@ const Header = () => {
             </a>
           </div>
           <a
-            href={`${import.meta.env.BASE_URL}curriculo.pdf`}
+            href={`${import.meta.env.BASE_URL}Curriculo.pdf`}
             download
             className={clsx(
               "text-over-secondary bg-secondary px-5 py-2 uppercase font-medium tracking-widest shadow-1xl",
