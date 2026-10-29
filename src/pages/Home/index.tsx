@@ -13,8 +13,8 @@ const Home = () => {
         </section>
       </Container>
       <Container className="bg-secondary">
-        <section id="about" className="scroll-mt-20">
-          <About></About>
+        <section id="ia" className="scroll-mt-20">
+          <IA></IA>
         </section>
       </Container>
       <Container className="bg-primary">
@@ -23,8 +23,8 @@ const Home = () => {
         </section>
       </Container>
       <Container className="bg-secondary">
-        <section id="ia" className="scroll-mt-20">
-          <IA></IA>
+        <section id="about" className="scroll-mt-20">
+          <About></About>
         </section>
       </Container>
     </div>

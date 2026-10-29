@@ -41,8 +41,8 @@ const Header = () => {
               },
             )}
           >
-            <a href="#about" className={buttonFormat}>
-              Sobre
+            <a href="#ia" className={buttonFormat}>
+              IA
             </a>
             {/* <button onClick={() => navigate("/projects")} className={buttonFormat}>
           Projetos
@@ -50,8 +50,8 @@ const Header = () => {
             <a href="#experiences" className={buttonFormat}>
               Experiências
             </a>
-            <a href="#ia" className={buttonFormat}>
-              IA
+            <a href="#about" className={buttonFormat}>
+              Sobre
             </a>
             <a
               href="https://github.com/VictorM-Dev/Portifolio/raw/refs/heads/main/docs/Curr%C3%ADculo.pdf"
