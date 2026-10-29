@@ -112,7 +112,7 @@ const About = () => {
               <h1 className={clsx("font-bold text-2xl")}>
                 Desenvolvimento de jogos
               </h1>
-              <p>Explorar a interção entre lógica e criatividade.</p>
+              <p>Explorar a interação entre lógica e criatividade.</p>
             </div>
 
             <div
