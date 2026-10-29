@@ -19,7 +19,7 @@ const IA = () => {
         Inteligência Artificial
       </h1>
       <div>
-        <h1 className={clsx("text-6xl font-medium")}>
+        <h1 className={clsx("max-sm:text-4xl font-medium text-6xl")}>
           Desenvolvendo com o{" "}
           <span className={clsx("text-over-secondary")}>apoio</span> da IA
         </h1>
@@ -37,7 +37,7 @@ const IA = () => {
         >
           <div
             className={clsx(
-              "flex gap-4 flex-col flex-1 min-w-100",
+              "flex gap-4 flex-col flex-1 min-w-90",
               "bg-primary p-4 text-over-primary",
             )}
           >
